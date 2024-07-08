@@ -5,7 +5,7 @@ function App() {
   return (
     <>
         <div className='all_bloks mx-auto max-w-[390px] min-h-[780px]'>
-          salom
+          salom salom
         </div>
     </>
   )
